@@ -6,6 +6,7 @@
 ## Francis Gichuhi
 ## Keefe Laporte
 ## Madelyn Mateo
+## Marina Lundstrom
 
 **Rank:** Captain
 
