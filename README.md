@@ -3,7 +3,7 @@
 ## John Carmichael
 ## Francis Gichuhi
 ## Keefe Laporte
-
+## Sasha Gemis
 ## Madelyn Mateo
 
 **Rank:** Captain
