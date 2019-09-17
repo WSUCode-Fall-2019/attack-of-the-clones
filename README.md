@@ -1,12 +1,9 @@
 # Clone Army
 
 ## John Carmichael
+## Keefe Laporte
 
-<<<<<<< HEAD
 ## Madelyn Mateo
-=======
-## McCoy Jamison
->>>>>>> 994f32546e3efbc258c15003b53c4ed5704ac353
 
 **Rank:** Captain
 
