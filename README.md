@@ -6,7 +6,7 @@
 ## Francis Gichuhi
 ## Keefe Laporte
 ## Madelyn Mateo
-##Dawdu Mahama-Amantanah
+## Dawdu Mahama-Amantanah
 **Rank:** Captain
 
 **Designation:** CT-2658
