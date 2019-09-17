@@ -2,8 +2,9 @@
 
 ## John Carmichael
 ## Francis Gichuhi
+## Keefe Laporte
 
-## McCoy Jamison
+## Madelyn Mateo
 
 **Rank:** Captain
 
