@@ -11,6 +11,7 @@
 ## Dawdu Mahama-Amantanah
 ## Daniel Guerrero
 ## Sean Biller
+## Connor Kirkwood
 
 **Rank:** Captain
 
