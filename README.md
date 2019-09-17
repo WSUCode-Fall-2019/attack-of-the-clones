@@ -1,6 +1,7 @@
 # Clone Army
 
 ## John Carmichael
+## Francis Gichuhi
 
 **Rank:** Captain
 
