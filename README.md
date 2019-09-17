@@ -1,6 +1,7 @@
 # Clone Army
 
 ## John Carmichael
+## Daniel Guerrero
 
 **Rank:** Captain
 
