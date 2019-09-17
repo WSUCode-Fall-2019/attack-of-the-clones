@@ -1,6 +1,7 @@
 # Clone Army
 
 ## John Carmichael
+## Sasha Gemis
 
 **Rank:** Captain
 
