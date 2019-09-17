@@ -3,6 +3,8 @@
 ## John Carmichael
 ## Daniel Guerrero
 
+## McCoy Jamison
+
 **Rank:** Captain
 
 **Designation:** CT-2658
