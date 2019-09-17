@@ -7,6 +7,7 @@
 ## Keefe Laporte
 ## Madelyn Mateo
 ## Marina Lundstrom
+## Dominique Diggs
 
 **Rank:** Captain
 
