@@ -14,6 +14,7 @@
 ## Daniel Guerrero
 ## Sean Biller
 ## Connor Kirkwood
+## Connor Gerrits
 
 **Rank:** Captain
 
