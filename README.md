@@ -1,6 +1,7 @@
 # Clone Army
 
 ## John Carmichael
+## Antonio Desroche
 
 **Rank:** Captain
 
