@@ -3,6 +3,8 @@
 ## John Carmichael
 ## Francis Gichuhi
 
+## McCoy Jamison
+
 **Rank:** Captain
 
 **Designation:** CT-2658
