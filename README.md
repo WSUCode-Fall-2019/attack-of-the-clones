@@ -15,6 +15,7 @@
 ## Sean Biller
 ## Connor Kirkwood
 ## Connor Gerrits
+## John Rice
 
 **Rank:** Captain
 
