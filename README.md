@@ -14,5 +14,4 @@
 **Designation:** CT-2658
 
 **Call Sign:** JC
-
 ----
