@@ -10,6 +10,7 @@
 ## Marina Lundstrom
 ## Dawdu Mahama-Amantanah
 ## Daniel Guerrero
+## Sean Biller
 
 **Rank:** Captain
 
