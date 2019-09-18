@@ -6,7 +6,7 @@
 
 ## Cheat Coders
 ## Francis Gichuhi
-## Keefe Laporte
+## King Keefe Laporte
 ## Madelyn Mateo
 ## Marina Lundstrom
 ## Dominique Diggs
