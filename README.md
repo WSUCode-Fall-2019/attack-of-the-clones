@@ -1,10 +1,13 @@
 # Clone Army
 
 ## John Carmichael
+## Antonio Desroche
 
 ## Daniel Guerrero
-
-## McCoy Jamison
+## Francis Gichuhi
+## Keefe Laporte
+## Madelyn Mateo
+## Marina Lundstrom
 
 **Rank:** Captain
 
