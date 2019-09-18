@@ -4,11 +4,16 @@
 ## Sasha Gemis
 ## Antonio Desroche
 
+
 ## Francis Gichuhi
 ## Keefe Laporte
 ## Madelyn Mateo
 ## Marina Lundstrom
+## Dominique Diggs
 ## Dawdu Mahama-Amantanah
+## Daniel Guerrero
+## Sean Biller
+## Connor Kirkwood
 
 **Rank:** Captain
 
