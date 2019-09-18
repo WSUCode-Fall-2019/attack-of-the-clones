@@ -3,12 +3,13 @@
 ## John Carmichael
 ## Antonio Desroche
 
-## Daniel Guerrero
+
 ## Francis Gichuhi
 ## Keefe Laporte
 ## Madelyn Mateo
 ## Marina Lundstrom
 ## Dawdu Mahama-Amantanah
+## Daniel Guerrero
 
 **Rank:** Captain
 
