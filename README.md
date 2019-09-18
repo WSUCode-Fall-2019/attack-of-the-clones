@@ -1,9 +1,10 @@
 # PUSH PULL ALLSTARS
 
 ## John Carmichael
+## Sasha Gemis
 ## Antonio Desroche
 
-
+## Cheat Coders
 ## Francis Gichuhi
 ## Keefe Laporte
 ## Madelyn Mateo
@@ -13,6 +14,7 @@
 ## Daniel Guerrero
 ## Sean Biller
 ## Connor Kirkwood
+## Connor Gerrits
 
 **Rank:** Captain
 
