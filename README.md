@@ -8,6 +8,7 @@
 ## Keefe Laporte
 ## Madelyn Mateo
 ## Marina Lundstrom
+## Dawdu Mahama-Amantanah
 
 **Rank:** Captain
 
