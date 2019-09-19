@@ -1,4 +1,4 @@
-# PUSH PULL ALLSTARS
+# PUSH PULL ALLSTAR$
 
 ## John Carmichael
 ## Sasha Gemis
@@ -15,8 +15,11 @@
 ## Sean Biller
 ## Connor Kirkwood
 ## Connor Gerrits
+## John Rice
+## Kullen Wetherby
 
 **Rank:** Captain
+
 
 **Designation:** CT-2658
 
