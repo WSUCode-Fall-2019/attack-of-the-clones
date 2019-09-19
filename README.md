@@ -1,4 +1,4 @@
-# PUSH PULL ALLSTARS
+# PUSH PULL ALLSTAR$
 
 ## John Carmichael
 ## Sasha Gemis
