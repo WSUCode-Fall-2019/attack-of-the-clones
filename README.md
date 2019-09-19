@@ -16,8 +16,10 @@
 ## Connor Kirkwood
 ## Connor Gerrits
 ## John Rice
+## Kullen Wetherby
 
 **Rank:** Captain
+
 
 **Designation:** CT-2658
 
