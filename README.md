@@ -3,7 +3,7 @@
 ## John Carmichael
 ## Sasha Gemis
 ## Antonio Desroche
-
+## McCoy Jamison *
 ## Cheat Coders
 ## Francis Gichuhi
 ## King Keefe Laporte
